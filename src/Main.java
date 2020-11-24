@@ -7,10 +7,10 @@ public class Main {
         JogoController.iniciarJogo();
         /*
         Dado dado = new Dado();
-
+      //teste
 
         Tabuleiro tab = new Tabuleiro(50, 20, 20);
-
+      
         //int pos = -1;
         Jogador jog1 = new Jogador("Jogador número 1");
         Jogador jog2 = new Jogador("Jogador número 2");
